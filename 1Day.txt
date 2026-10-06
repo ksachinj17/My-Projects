@@ -1,0 +1,8 @@
+Git Commands
+
+
+1) git init                       .....  hidden item shows
+2) git add filename.txt           .....  File chages shows
+3) git add .                      .....  All file chages history                                           save at a time
+4) git commit -m                  ...... Add comment This task                                          completed todays
+
